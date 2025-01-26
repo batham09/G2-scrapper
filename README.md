@@ -2,6 +2,9 @@
 
 This project is a simple Node.js script that fetches reviews for a specific product from the G2 website. It filters reviews based on a provided date range and saves the filtered results into a JSON file.
 
+## You need to pass company name and start date and end date as parameter
+for referrence use "akamai", yellow-ai etc. Date range as required.
+
 Requirements
 Before running the script, ensure you have the following installed:
 
